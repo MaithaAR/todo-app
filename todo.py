@@ -17,3 +17,4 @@ if __name__ == "__main__":
     add("Install Git")
     add("Finish the Git lab")
     show()
+print("debug!!!")
